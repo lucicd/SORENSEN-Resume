@@ -1,30 +1,29 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Kylar Sorensen's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Kylar Sorensen
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="kylar.sorensen@gmail.com">kylar.sorensen@gmail.com</a>
+| <a href="https://www.linkedin.com/in/kylar-sorensen-675604175/">LinkedIn</a>
+| <a href="https://github.com/apache-pine">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2014-2017`
+__Blue Mountain Community College__, Pendleton, OR
 
-- Full academic scholarship with 4.0 GPA
+- Dual credit classes while attending high school
 
-`Expected 2029`
+`Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- B.S. in Computer Science
+- Current 4.0 GPA
 
 
 ## Related Experience
@@ -77,13 +76,13 @@ __Pinnacle Management Group__,
 __Math Tutor__, LDSBC
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2019-2021`
+__Missionary__, Argentina
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2022 -->
 
 
