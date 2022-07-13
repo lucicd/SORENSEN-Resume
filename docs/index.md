@@ -14,11 +14,12 @@ title: Kylar Sorensen's Resume
 
 ## Education
 
+
 `2014-2017`
 __Blue Mountain Community College__, Pendleton, OR
 
 - Dual credit classes while attending high school
-
+## ADD START DATE below
 `Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
@@ -33,9 +34,9 @@ __Brigham Young University - Idaho__, Rexburg, ID
 `Spring 2022`
 __Data Science Programming - DS 250__, BYU-I
 
-- Used Python and many of its libraries to build, edit and query databases and CSV files.
+- Used Python and the included libraries to build, edit and query databases and CSV files.
 - Built multiple machine learning models using Sklearn in Python.
-- Used Altair and several other libraries in Python to visually represent data in graphs and charts.
+- Used Altair and seaborn, and many other libraries in Python to visually represent data in graphs and charts.
 
 ### Database Design and Management
 
