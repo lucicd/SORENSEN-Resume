@@ -28,56 +28,33 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Related Experience
 
-### Internships
+### Data Science Programming
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`Spring 2022`
+__Data Science Programming - DS 250__, BYU-I
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Used Python and many of its libraries to build, edit and query databases and CSV files.
+- Built multiple machine learning models using Sklearn in Python.
+- Used Altair and several other libraries in Python to visually represent data in graphs and charts.
 
-### Data Science Lead
+### Database Design and Management
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`Spring 2022`
+__Introduction to Databases - CIT 111__, BYU-I
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
+- Utilized a database management system to efficiently query, edit, and add to a database, in order to effectively gather insights, update inconsistencies, and provide new information. 
+- Used MySQL Workbench to both forward engineer and reverse engineer databases and ERDs.
+- Used MySQL Workbench to design, create and edit databases and ERD models on a locally based server.
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`June 2021 - Current`
+__Spanish Interpreter__, Vernacular Language Services & Cyracom
+- Attend medical appointments with clients to assist in filling out paperwork, then interpret for the client and health care professional. Assist in scheduling any follow up appointments. Report my time and mileage to my supervisor after each appointment.
 
-
-`2019-2021`
+`May 2019 - May 2021`
 __Missionary__, Argentina
+- Regularly trained, facilitated meetings, and created progress reports for 20 to 24 volunteer missionaries. Helped train and mentor in one-on-one settings. On a nightly basis evaluated our performance for that day, discussed potential improvements, and created an hourly schedule and set numerical goals for the following day.
 
 
 
