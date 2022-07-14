@@ -4,6 +4,10 @@ title: Kylar Sorensen's Resume
 ---
 # Kylar Sorensen
 
+<img src="https://media-exp1.licdn.com/dms/image/C4E03AQGL2OnZ9ehx5A/profile-displayphoto-shrink_800_800/0/1645731993319?e=1663200000&v=beta&t=mxWyXNMSaa6UydxMvffkLDOgHtLY1gGkO0y21Z6VuFs"
+     alt="Kylar Sorensen's Picture"
+     style="float: left; margin-right: 10px;" />
+
 <div id="webaddress">
 <a href="kylar.sorensen@gmail.com">kylar.sorensen@gmail.com</a>
 | <a href="https://www.linkedin.com/in/kylar-sorensen-675604175/">LinkedIn</a>
